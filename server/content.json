@@ -1,0 +1,104 @@
+{
+  "ecosave": {
+    "en": {
+      "name": "EcoSave Initiative",
+      "tagline": "Saving the Planet, One Step at a Time",
+      "description": "We are dedicated to preserving our natural environment through community action and sustainable practices. Join us in making a difference today. This content is editable via the content.json file.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1501854140884-074cf2b2c7c0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Support Our Cause",
+        "description": "Your contribution helps us plant trees and clean up oceans. Every dollar makes an impact.",
+        "link": "https://example.com/donate",
+        "linkText": "Donate Now",
+        "paypalEmail": "donations@ecosave.org",
+        "bankAccountNumber": "GB12 3456 7890 1234 5678"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com" },
+        { "platform": "Instagram", "url": "https://instagram.com" },
+        { "platform": "GitHub", "url": "https://github.com" }
+      ]
+    },
+    "ro": {
+      "name": "Inițiativa EcoSave",
+      "tagline": "Salvăm Planeta, Pas cu Pas",
+      "description": "Suntem dedicați protejării mediului nostru natural prin acțiuni comunitare și practici sustenabile. Alăturați-vă nouă pentru a face o diferență astăzi. Acest conținut este editabil prin fișierul content.json.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1501854140884-074cf2b2c7c0?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Susțineți Cauza Noastră",
+        "description": "Contribuția dumneavoastră ne ajută să plantăm copaci și să curățăm oceanele. Fiecare dolar contează.",
+        "link": "https://example.com/donate",
+        "linkText": "Donează Acum",
+        "paypalEmail": "donations@ecosave.org",
+        "bankAccountNumber": "GB12 3456 7890 1234 5678"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com" },
+        { "platform": "Instagram", "url": "https://instagram.com" },
+        { "platform": "GitHub", "url": "https://github.com" }
+      ]
+    }
+  },
+  "vftn": {
+    "en": {
+      "name": "Voices for the Needy",
+      "tagline": "Empowering Communities Through Voice",
+      "description": "VFTN is a global organization dedicated to amplifying the voices of underprivileged communities and providing essential support. This content is specific to the VFTN application.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1532629345422-7515f3d16bb8?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Empower Our Mission",
+        "description": "Your support provides resources and advocacy for those in need. Join us in creating lasting change.",
+        "link": "https://example.org/donate",
+        "linkText": "Give Today",
+        "paypalEmail": "donations@vftn.org",
+        "bankAccountNumber": "VFTN-BANK-ACC-EN"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com/vftn" },
+        { "platform": "Instagram", "url": "https://instagram.com/vftn" }
+      ]
+    },
+    "ro": {
+      "name": "Voci pentru cei Nevoiași",
+      "tagline": "Împuternicirea Comunităților prin Voce",
+      "description": "VFTN este o organizație globală dedicată amplificării vocilor comunităților defavorizate și oferirii de sprijin esențial. Acest conținut este specific aplicației VFTN.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1532629345422-7515f3d16bb8?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Împuternicește Misiunea Noastră",
+        "description": "Sprijinul dumneavoastră oferă resurse și advocacy pentru cei în nevoie. Alăturați-vă nouă pentru a crea o schimbare durabilă.",
+        "link": "https://example.org/donate",
+        "linkText": "Dăruiește Astăzi",
+        "paypalEmail": "donations@vftn.org",
+        "bankAccountNumber": "VFTN-BANK-ACC-RO"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com/vftn" },
+        { "platform": "Instagram", "url": "https://instagram.com/vftn" }
+      ]
+    }
+  }
+}
