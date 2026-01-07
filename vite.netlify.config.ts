@@ -15,12 +15,19 @@ export default defineConfig({
   },
   css: {
     postcss: {
-      plugins: [tailwindcss(), autoprefixer()],
+      plugins: [tailwindcss({ config: path.resolve(__dirname, "client/tailwind.config.js") }), autoprefixer()],
     },
   },
   root: path.resolve(__dirname, "client"),
   build: {
     outDir: path.resolve(__dirname, "dist"),
     emptyOutDir: true,
+    rollupOptions: {
+      input: {
+        main: path.resolve(__dirname, "client/index.html"),
+        en: path.resolve(__dirname, "client/en/index.html"),
+        ro: path.resolve(__dirname, "client/ro/index.html"),
+      },
+    },
   },
 });
