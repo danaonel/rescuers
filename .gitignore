@@ -8,3 +8,4 @@ vite.config.ts.*
 .replit
 .env
 client/dist
+client/node_modules
