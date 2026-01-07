@@ -18,9 +18,9 @@ export default defineConfig({
       plugins: [tailwindcss({ config: path.resolve(__dirname, "client/tailwind.config.js") }), autoprefixer()],
     },
   },
-  root: path.resolve(__dirname, "client"),
+  // root: path.resolve(__dirname, "client"),
   build: {
-    outDir: path.resolve(__dirname, "../dist"),
+    outDir: path.resolve(__dirname, "dist"),
     emptyOutDir: true,
     rollupOptions: {
       input: {
