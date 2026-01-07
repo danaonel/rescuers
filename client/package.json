@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "build": "vite build",
+    "build:netlify": "vite build -c ../vite.netlify.config.ts",
     "preview": "vite preview"
   },
   "dependencies": {
