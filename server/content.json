@@ -1,7 +1,7 @@
 {
   "salr": {
     "en": {
-      "name": "EcoSave Initiative",
+      "name": "Save a Life Romania",
       "tagline": "Saving the Planet, One Step at a Time",
       "description": "We are dedicated to preserving our natural environment through community action and sustainable practices. Join us in making a difference today. This content is editable via the content.json file.",
       "logoUrl": "",
@@ -12,7 +12,7 @@
         "https://images.unsplash.com/photo-1501854140884-074cf2b2c7c0?auto=format&fit=crop&w=800&q=80"
       ],
       "donation": {
-        "title": "Support Our Cause",
+        "title": "Save a Life Romania",
         "description": "Your contribution helps us plant trees and clean up oceans. Every dollar makes an impact.",
         "link": "https://example.com/donate",
         "linkText": "Donate Now",
@@ -26,7 +26,7 @@
       ]
     },
     "ro": {
-      "name": "Inițiativa EcoSave",
+      "name": "Salvează o Viață România",
       "tagline": "Salvăm Planeta, Pas cu Pas",
       "description": "Suntem dedicați protejării mediului nostru natural prin acțiuni comunitare și practici sustenabile. Alăturați-vă nouă pentru a face o diferență astăzi. Acest conținut este editabil prin fișierul content.json.",
       "logoUrl": "",
@@ -37,7 +37,7 @@
         "https://images.unsplash.com/photo-1501854140884-074cf2b2c7c0?auto=format&fit=crop&w=800&q=80"
       ],
       "donation": {
-        "title": "Susțineți Cauza Noastră",
+        "title": "Salvează o Viață România",
         "description": "Contribuția dumneavoastră ne ajută să plantăm copaci și să curățăm oceanele. Fiecare dolar contează.",
         "link": "https://example.com/donate",
         "linkText": "Donează Acum",
@@ -64,7 +64,7 @@
         "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
       ],
       "donation": {
-        "title": "Empower Our Mission",
+        "title": "Saving Orphans Sheila Arms",
         "description": "Your support provides resources and advocacy for those in need. Join us in creating lasting change.",
         "link": "https://example.org/donate",
         "linkText": "Give Today",
@@ -88,7 +88,7 @@
         "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
       ],
       "donation": {
-        "title": "Împuternicește Misiunea Noastră",
+        "title": "Saving Orphans Sheila Arms",
         "description": "Sprijinul dumneavoastră oferă resurse și advocacy pentru cei în nevoie. Alăturați-vă nouă pentru a crea o schimbare durabilă.",
         "link": "https://example.org/donate",
         "linkText": "Dăruiește Astăzi",
