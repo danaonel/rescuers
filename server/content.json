@@ -1,5 +1,5 @@
 {
-  "ecosave": {
+  "salr": {
     "en": {
       "name": "EcoSave Initiative",
       "tagline": "Saving the Planet, One Step at a Time",
@@ -51,11 +51,11 @@
       ]
     }
   },
-  "vftn": {
+  "sosa": {
     "en": {
-      "name": "Voices for the Needy",
-      "tagline": "Empowering Communities Through Voice",
-      "description": "VFTN is a global organization dedicated to amplifying the voices of underprivileged communities and providing essential support. This content is specific to the VFTN application.",
+      "name": "Saving Orphans Sheila Arms",
+      "tagline": "Empowering Communities SOS Arms",
+      "description": "SOS Arms is a global organization dedicated to amplifying the voices of underprivileged communities and providing essential support. This content is specific to the VFTN application.",
       "logoUrl": "",
       "gallery": [
         "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
@@ -77,9 +77,109 @@
       ]
     },
     "ro": {
-      "name": "Voci pentru cei Nevoiași",
-      "tagline": "Împuternicirea Comunităților prin Voce",
-      "description": "VFTN este o organizație globală dedicată amplificării vocilor comunităților defavorizate și oferirii de sprijin esențial. Acest conținut este specific aplicației VFTN.",
+      "name": "Saving Orphans Sheila Arms",
+      "tagline": "Împuternicirea Comunităților prin SOS Arms",
+      "description": "SOS Arms este o organizație globală dedicată amplificării vocilor comunităților defavorizate și oferirii de sprijin esențial. Acest conținut este specific aplicației VFTN.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1532629345422-7515f3d16bb8?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Împuternicește Misiunea Noastră",
+        "description": "Sprijinul dumneavoastră oferă resurse și advocacy pentru cei în nevoie. Alăturați-vă nouă pentru a crea o schimbare durabilă.",
+        "link": "https://example.org/donate",
+        "linkText": "Dăruiește Astăzi",
+        "paypalEmail": "donations@vftn.org",
+        "bankAccountNumber": "VFTN-BANK-ACC-RO"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com/vftn" },
+        { "platform": "Instagram", "url": "https://instagram.com/vftn" }
+      ]
+    }
+  },
+  "pufi": {
+    "en": {
+      "name": "Puffi Puff - Pet Grooming Bacau",
+      "tagline": "Pet Grooming Bacau",
+      "description": "SOS Arms is a global organization dedicated to amplifying the voices of underprivileged communities and providing essential support. This content is specific to the VFTN application.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1532629345422-7515f3d16bb8?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Empower Our Mission",
+        "description": "Your support provides resources and advocacy for those in need. Join us in creating lasting change.",
+        "link": "https://example.org/donate",
+        "linkText": "Give Today",
+        "paypalEmail": "donations@vftn.org",
+        "bankAccountNumber": "VFTN-BANK-ACC-EN"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com/vftn" },
+        { "platform": "Instagram", "url": "https://instagram.com/vftn" }
+      ]
+    },
+    "ro": {
+      "name": "Puffi Puff - Frizerie Canina Bacau",
+      "tagline": "Frizerie Canina Bacau",
+      "description": "SOS Arms este o organizație globală dedicată amplificării vocilor comunităților defavorizate și oferirii de sprijin esențial. Acest conținut este specific aplicației VFTN.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1532629345422-7515f3d16bb8?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Împuternicește Misiunea Noastră",
+        "description": "Sprijinul dumneavoastră oferă resurse și advocacy pentru cei în nevoie. Alăturați-vă nouă pentru a crea o schimbare durabilă.",
+        "link": "https://example.org/donate",
+        "linkText": "Dăruiește Astăzi",
+        "paypalEmail": "donations@vftn.org",
+        "bankAccountNumber": "VFTN-BANK-ACC-RO"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com/vftn" },
+        { "platform": "Instagram", "url": "https://instagram.com/vftn" }
+      ]
+    }
+  },
+  "dana": {
+    "en": {
+      "name": "Dana Glint",
+      "tagline": "Daniela Glint - Software Engineer",
+      "description": "SOS Arms is a global organization dedicated to amplifying the voices of underprivileged communities and providing essential support. This content is specific to the VFTN application.",
+      "logoUrl": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1532629345422-7515f3d16bb8?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1469571483350-f18b718274d9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "donation": {
+        "title": "Empower Our Mission",
+        "description": "Your support provides resources and advocacy for those in need. Join us in creating lasting change.",
+        "link": "https://example.org/donate",
+        "linkText": "Give Today",
+        "paypalEmail": "donations@vftn.org",
+        "bankAccountNumber": "VFTN-BANK-ACC-EN"
+      },
+      "socialLinks": [
+        { "platform": "Twitter", "url": "https://twitter.com/vftn" },
+        { "platform": "Instagram", "url": "https://instagram.com/vftn" }
+      ]
+    },
+    "ro": {
+      "name": "Dana Glint",
+      "tagline": "Daniela Glint - Software Engineer",
+      "description": "SOS Arms este o organizație globală dedicată amplificării vocilor comunităților defavorizate și oferirii de sprijin esențial. Acest conținut este specific aplicației VFTN.",
       "logoUrl": "",
       "gallery": [
         "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
